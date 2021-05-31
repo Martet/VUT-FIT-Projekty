@@ -1,0 +1,21 @@
+[submodule "IZP"]
+	path = IZP
+	url = git@github.com:Martet/IZP.git
+[submodule "INC"]
+	path = INC
+	url = git@github.com:Martet/INC.git
+[submodule "IJC"]
+	path = IJC
+	url = git@github.com:Martet/IJC.git
+[submodule "IZG"]
+	path = IZG
+	url = git@github.com:Martet/IZG.git
+[submodule "IVS-1"]
+	path = IVS-1
+	url = git@github.com:Martet/IVS-1.git
+[submodule "IOS"]
+	path = IOS
+	url = git@github.com:Martet/IOS.git
+[submodule "IEL"]
+	path = IEL
+	url = git@github.com:Martet/IEL.git
