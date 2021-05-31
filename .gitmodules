@@ -19,3 +19,9 @@
 [submodule "IEL"]
 	path = IEL
 	url = git@github.com:Martet/IEL.git
+[submodule "ivs_projekt"]
+	path = ivs_projekt
+	url = git@github.com:Martet/ivs_projekt.git
+[submodule "ITY"]
+	path = ITY
+	url = git@github.com:Martet/ITY.git
