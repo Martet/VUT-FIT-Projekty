@@ -25,3 +25,18 @@
 [submodule "ITY"]
 	path = ITY
 	url = git@github.com:Martet/ITY.git
+[submodule "ISS"]
+	path = ISS
+	url = git@github.com:Martet/ISS.git
+[submodule "IAL"]
+	path = IAL
+	url = git@github.com:Martet/IAL.git
+[submodule "INP"]
+	path = INP
+	url = git@github.com:Martet/INP.git
+[submodule "ifj-projekt-2021"]
+	path = ifj-projekt-2021
+	url = git@github.com:AsToNlele/ifj-projekt-2021.git
+[submodule "mindstorms-controller"]
+	path = mindstorms-controller
+	url = git@github.com:ondrej-mach/mindstorms-controller.git
